@@ -5,10 +5,9 @@ A curated collection of end-to-end machine learning projects covering classifica
 
 ## 🔍 Projects
 
-### 1️⃣ Credit Card Fraud Detection  
-🔗 https://github.com/manikanta70137/Credit-Card-Fraud-Detection  
-✔ Imbalanced classification  
-✔ Precision-focused model evaluation  
+### 1️⃣ Restaurant Sentiment Analysis  
+🔗 https://github.com/manikanta70137/restaurant-sentiment-app  
+🌐 Live App: https://restaurant-sentiment-app-adhcwmbjuzxaiqeoz3rtkf.streamlit.app/
 
 ---
 
@@ -22,6 +21,7 @@ A curated collection of end-to-end machine learning projects covering classifica
 
 ---
 
-### 4️⃣ Restaurant Sentiment Analysis  
-🔗 https://github.com/manikanta70137/restaurant-sentiment-app  
-🌐 Live App: https://restaurant-sentiment-app-adhcwmbjuzxaiqeoz3rtkf.streamlit.app/
+### 4️⃣ Credit Card Fraud Detection  
+🔗 https://github.com/manikanta70137/Credit-Card-Fraud-Detection  
+✔ Imbalanced classification  
+✔ Precision-focused model evaluation  
